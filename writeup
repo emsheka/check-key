@@ -1,1 +1,0 @@
-writeup2 cat check | strings | grep "flag"
